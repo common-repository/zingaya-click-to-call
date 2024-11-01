@@ -1,0 +1,1665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zingaya\n"
+"POT-Creation-Date: 2014-08-08 10:06+0400\n"
+"PO-Revision-Date: 2014-08-08 11:26+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: zingaya-admin.php:2
+msgid "Zingaya Administrator"
+msgstr "Управление Zingaya"
+
+#: zingaya-admin.php:9
+msgid "Please specify your Zingaya account info for authorization"
+msgstr "Пожалуйста введите данные аккаунта Zingaya для авторизации"
+
+#: zingaya-admin.php:10
+msgid "If you don`t have Zingaya account yet, you can "
+msgstr "Если у Вас пока нет аккаунта Zingaya, Вы можете "
+
+#: zingaya-admin.php:10
+msgid "Sign up here"
+msgstr "Создать аккаунт здесь"
+
+#: zingaya-admin.php:15
+msgid "Email/Username"
+msgstr "Email/Логин"
+
+#: zingaya-admin.php:16 zingaya-admin.php:23 zingaya-admin.php:58
+#: zingaya-admin.php:68 zingaya-admin.php:76 zingaya-admin.php:84
+#: zingaya-admin.php:100 zingaya-admin.php:112 zingaya-admin.php:124
+#: zingaya-createwidget.php:44 zingaya-createwidget.php:50
+#: zingaya-editwidget.php:39 zingaya-editwidget.php:53 zingaya-profile.php:57
+#: zingaya-profile.php:65 zingaya-profile.php:73 zingaya-profile.php:81
+msgid "required"
+msgstr "обязательно"
+
+#: zingaya-admin.php:22 zingaya-admin.php:111
+msgid "Password"
+msgstr "Пароль"
+
+#: zingaya-admin.php:29
+msgid "Your Zingaya account password"
+msgstr "Пароль от Вашего аккаунта Zingaya"
+
+#: zingaya-admin.php:42
+msgid "Authorize & Enable"
+msgstr "Авторизоваться"
+
+#: zingaya-admin.php:51
+msgid "Please fill the form below to create your Zingaya account"
+msgstr "Пожалуйста заполните форму для создания аккаунта Zingaya"
+
+#: zingaya-admin.php:52
+msgid "Or"
+msgstr "Или"
+
+#: zingaya-admin.php:52
+msgid "Sign in here"
+msgstr "Авторизуйтесь здесь"
+
+#: zingaya-admin.php:52
+msgid "if you already have Zingaya account"
+msgstr "Если у Вас уже есть аккаунт Zingaya"
+
+#: zingaya-admin.php:67 zingaya-profile.php:9 zingaya-profile.php:56
+msgid "First name"
+msgstr "Фамилия"
+
+#: zingaya-admin.php:75 zingaya-profile.php:15 zingaya-profile.php:64
+msgid "Last name"
+msgstr "Имя"
+
+#: zingaya-admin.php:83 zingaya-classes.php:201
+msgid "Country"
+msgstr "Страна"
+
+#: zingaya-admin.php:94
+msgid "Select a country on the phone number which will be forwarded calls"
+msgstr "Выберите страну на номера который будут переадресованы звонки"
+
+#: zingaya-admin.php:99
+msgid "Phone"
+msgstr "Телефон"
+
+#: zingaya-admin.php:106 zingaya-createwidget.php:54 zingaya-editwidget.php:56
+msgid "For example, for US 18005553723"
+msgstr "Например, для Москвы 74951112233"
+
+#: zingaya-admin.php:118
+msgid "At least 6 characters"
+msgstr "Не короче 6 символов"
+
+#: zingaya-admin.php:123
+msgid "Password Confirmation"
+msgstr "Подтверждение пароля"
+
+#: zingaya-admin.php:133
+msgid "Sign Up"
+msgstr "Создать аккаунт"
+
+#: zingaya-billing.php:2 zingaya.php:385 zingaya.php:473
+msgid "Billing"
+msgstr "Оплата"
+
+#: zingaya-billing.php:3
+msgid ""
+"You can make payment or upgrade your account by clicking the button below "
+"(you will be forwarded to Zingaya Control Panel)"
+msgstr ""
+"Вы можете произвести оплату или обновить тариф, нажав на кнопку ниже (вы "
+"будете перенаправлены в панель управления Zingaya)"
+
+#: zingaya-billing.php:5 zingaya-cp.php:8
+msgid "Zingaya Control Panel"
+msgstr "Панель упраления Zingaya"
+
+#: zingaya-blacklist.php:11 zingaya-blacklist.php:12
+msgid "Wrong IP address specified"
+msgstr "Введен не правильный IP-адрес"
+
+#: zingaya-blacklist.php:18 zingaya-classes.php:424 zingaya-classes.php:492
+msgid "IP address"
+msgstr "IP-адрес"
+
+#: zingaya-blacklist.php:18
+msgid "Add to the list"
+msgstr "Добавить в список"
+
+#: zingaya-classes.php:9
+msgid "Name"
+msgstr "Название"
+
+#: zingaya-classes.php:10
+msgid "Active"
+msgstr "Активен"
+
+#: zingaya-classes.php:11
+msgid "Numbers"
+msgstr "Номера"
+
+#: zingaya-classes.php:12
+msgid " "
+msgstr ""
+
+#: zingaya-classes.php:14 zingaya-cp.php:81
+msgid "Country control"
+msgstr "Геотаргетинг"
+
+#: zingaya-classes.php:72 zingaya-classes.php:174 zingaya-classes.php:252
+#: zingaya-classes.php:364 zingaya-classes.php:458 zingaya-cp.php:22
+#: zingaya.php:231 zingaya.php:252 zingaya.php:260 zingaya.php:276
+#: zingaya.php:349 zingaya.php:494 zingaya.php:500 zingaya.php:596
+#: zingaya.php:623 zingaya.php:639 zingaya.php:687 zingaya.php:732
+#: zingaya.php:812 zingaya.php:1141 zingaya.php:1172 zingaya.php:1193
+#: zingaya.php:1219 zingaya.php:1238 zingaya.php:1265
+msgid "Error"
+msgstr "Ошибка"
+
+#: zingaya-classes.php:120
+msgid "Widget is active"
+msgstr "Виджет активен"
+
+#: zingaya-classes.php:128
+msgid "Test"
+msgstr "Тест"
+
+#: zingaya-classes.php:129 zingaya-profile.php:49
+msgid "Edit"
+msgstr "Редактировать"
+
+#: zingaya-classes.php:130
+msgid "Widget builder"
+msgstr "Редактор виджета"
+
+#: zingaya-classes.php:131 zingaya-classes.php:202 zingaya-classes.php:314
+#: zingaya-widgetdesigner.php:177
+msgid "Widget"
+msgstr "Виджет"
+
+#: zingaya-classes.php:131 zingaya-classes.php:492
+msgid "will be deleted. Are you sure?"
+msgstr "будет удален. Вы уверены?"
+
+#: zingaya-classes.php:131 zingaya-classes.php:139 zingaya-classes.php:408
+#: zingaya-classes.php:492
+msgid "Delete"
+msgstr "Удалить"
+
+#: zingaya-classes.php:150
+msgid "Nope! Security check failed!"
+msgstr ""
+
+#: zingaya-classes.php:179
+msgid "Widgets were deleted successfully"
+msgstr "Виджеты будут удалены. Вы уверены?"
+
+#: zingaya-classes.php:196
+msgid "Call status"
+msgstr "Статус"
+
+#: zingaya-classes.php:197 zingaya-classes.php:312
+msgid "Date"
+msgstr "Дата"
+
+#: zingaya-classes.php:198
+msgid "Number"
+msgstr "Номер"
+
+#: zingaya-classes.php:199 zingaya-classes.php:313
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: zingaya-classes.php:200
+msgid "Cost"
+msgstr "Стоимость"
+
+#: zingaya-classes.php:204 zingaya-classes.php:316
+msgid "Record"
+msgstr "Запись"
+
+#: zingaya-classes.php:295 zingaya-classes.php:406
+msgid "Download"
+msgstr "Скачать"
+
+#: zingaya-classes.php:296 zingaya-classes.php:407
+msgid "Play"
+msgstr "Прослушать"
+
+#: zingaya-classes.php:315
+msgid "Listened"
+msgstr "Прослушан"
+
+#: zingaya-classes.php:408
+msgid "Voicemail will be deleted. Are you sure?"
+msgstr "Голосовая почта будет удалена. Вы уверены?"
+
+#: zingaya-cp.php:34
+msgid "Current Plan"
+msgstr "Текущий тариф"
+
+#: zingaya-cp.php:39
+msgid "minutes left"
+msgstr "минут осталось"
+
+#: zingaya-cp.php:39
+msgid "minute left"
+msgstr "минут осталось"
+
+#: zingaya-cp.php:39 zingaya-cp.php:48
+msgid "until"
+msgstr "до"
+
+#: zingaya-cp.php:43
+msgid "Payment mode - \"Pay as you go\""
+msgstr "Режим платежей - \"Pay as you go\""
+
+#: zingaya-cp.php:48
+msgid "calls left"
+msgstr "звонков осталось"
+
+#: zingaya-cp.php:48
+msgid "call left"
+msgstr "звонок остался"
+
+#: zingaya-cp.php:54
+msgid "Number of operators"
+msgstr "Количество операторов"
+
+#: zingaya-cp.php:56 zingaya-help.php:17 zingaya-help.php:159 zingaya.php:384
+msgid "Features"
+msgstr "Функции"
+
+#: zingaya-cp.php:60 zingaya-createwidget.php:60 zingaya-editwidget.php:62
+#: zingaya-help.php:42
+msgid "Working hours"
+msgstr "Рабочие часы"
+
+#: zingaya-cp.php:63 zingaya-createwidget.php:126 zingaya-editwidget.php:128
+#: zingaya-help.php:48 zingaya-help.php:160 zingaya.php:417
+msgid "Voicemail"
+msgstr "Голосовая почта"
+
+#: zingaya-cp.php:66 zingaya-createwidget.php:137 zingaya-editwidget.php:139
+#: zingaya-help.php:54
+msgid "Call recording"
+msgstr "Запись разговоров"
+
+#: zingaya-cp.php:69 zingaya.php:425
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: zingaya-cp.php:72
+msgid "Google Analytics integration"
+msgstr "Интеграция с Google Analytics"
+
+#: zingaya-cp.php:75
+msgid "Surveys"
+msgstr "Опросы"
+
+#: zingaya-cp.php:78
+msgid "Call to multiple numbers"
+msgstr "Гибкая маршрутизация"
+
+#: zingaya-cp.php:93
+msgid "Upgrade"
+msgstr "Изменить тариф"
+
+#: zingaya-cp.php:94
+msgid "Change plan"
+msgstr "Изменить тариф"
+
+#: zingaya-createwidget.php:38 zingaya-editwidget.php:33
+msgid "Widgets list"
+msgstr "Список виджетов"
+
+#: zingaya-createwidget.php:44 zingaya-editwidget.php:39 zingaya-help.php:24
+msgid "Widget name"
+msgstr "Название виджета"
+
+#: zingaya-createwidget.php:50 zingaya-editwidget.php:53 zingaya-help.php:36
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: zingaya-createwidget.php:68 zingaya-editwidget.php:70
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: zingaya-createwidget.php:76 zingaya-editwidget.php:78
+msgid "Monday"
+msgstr "Понедельник"
+
+#: zingaya-createwidget.php:84 zingaya-editwidget.php:86
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: zingaya-createwidget.php:92 zingaya-editwidget.php:94
+msgid "Wednesday"
+msgstr "Среда"
+
+#: zingaya-createwidget.php:100 zingaya-editwidget.php:102
+msgid "Thursday"
+msgstr "Четверг"
+
+#: zingaya-createwidget.php:108 zingaya-editwidget.php:110
+msgid "Friday"
+msgstr "Пятница"
+
+#: zingaya-createwidget.php:116 zingaya-editwidget.php:118
+msgid "Saturday"
+msgstr "Суббота"
+
+#: zingaya-createwidget.php:130 zingaya-editwidget.php:132
+msgid ""
+"Voicemail prompt will be used when somebody calls you while non-working hours"
+msgstr ""
+"Голосовая почта используется, когда кто-нибудь пытается позвонить через "
+"виджет в нерабочее время"
+
+#: zingaya-createwidget.php:141 zingaya-editwidget.php:143
+msgid "Enable/disable call recording feature for the widget"
+msgstr "Включить/выключить запись звонков"
+
+#: zingaya-createwidget.php:148 zingaya-editwidget.php:150 zingaya-help.php:60
+msgid "Google analytics"
+msgstr ""
+
+#: zingaya-createwidget.php:153 zingaya-editwidget.php:155
+msgid ""
+"Your Google Analytics ID in the following format UA-XXXX-YY, <br />you can "
+"get it in your Google Analytics control panel. <br />Just leave it blank if "
+"you don't want to use integration with Google Analytics"
+msgstr ""
+"Ваш идентификатор Google Analytics в формате UA-XXXX-YY, <br />вы можете "
+"узнать его в панели управления Google Analytics. <br />Оставьте это поле "
+"пустым если вы не хотите использовать интеграцию с Google Analytics"
+
+#: zingaya-createwidget.php:159 zingaya-editwidget.php:161 zingaya-help.php:66
+msgid "DTMF Keypad"
+msgstr "Клавиатура для донабора номера"
+
+#: zingaya-createwidget.php:163 zingaya-editwidget.php:165
+msgid "Allows to enter extension numbers in connected state"
+msgstr "Позволяет вводить добавочный номер сотрудника после соединения"
+
+#: zingaya-createwidget.php:168 zingaya-editwidget.php:172
+#: zingaya-profile.php:107
+msgid "Save"
+msgstr "Сохранить"
+
+#: zingaya-editwidget.php:45 zingaya-help.php:30
+msgid "Is active"
+msgstr "Активен"
+
+#: zingaya-help.php:11
+msgid "Contents"
+msgstr "Разделы"
+
+#: zingaya-help.php:13 zingaya-help.php:22
+msgid "Creating/editing Zingaya widget"
+msgstr "Создание/редактирование виджета Zingaya"
+
+#: zingaya-help.php:14 zingaya-help.php:74
+msgid "Customizing look&feel"
+msgstr "Изменение внешнего вида виджета"
+
+#: zingaya-help.php:15 zingaya-help.php:122
+msgid "Embedding widget"
+msgstr "Добавление виджета на сайт"
+
+#: zingaya-help.php:16 zingaya-help.php:154 zingaya.php:383
+msgid "Call history"
+msgstr "История звонков"
+
+#: zingaya-help.php:18 zingaya-help.php:171
+msgid "Payment"
+msgstr "Оплата"
+
+#: zingaya-help.php:23
+msgid "Please see Zingaya widget form description below."
+msgstr ""
+"Пожалуйста, ознакомьтесь с описанием полей формы создания/редактирования "
+"виджета."
+
+#: zingaya-help.php:28
+msgid "Just name of your wiget - some string."
+msgstr "Просто название Вашего виджета - строка"
+
+#: zingaya-help.php:34
+msgid ""
+"This field is available while widget editing only, enable/disable switch. "
+"Calls won't go through disabled widget."
+msgstr ""
+"Это поле доступно только при редактировании виджета. Звонки не будут "
+"поступать через не активный виджет."
+
+#: zingaya-help.php:40
+msgid "Calls through widget will be forwarded to the specified phone number."
+msgstr "Звонки через виджет будут переадресованы на этот номер телефона."
+
+#: zingaya-help.php:46
+msgid ""
+"This feature allows you to choose the times of day that web calls will be "
+"forwarded to your phone (for each day of the week). Customers who call you "
+"outside of these hours can leave you a voicemail message."
+msgstr ""
+"Позволяет выбрать в какое время и по каким дням звонки будут "
+"перенаправляться на указанные номера или на голосовую почту."
+
+#: zingaya-help.php:52 zingaya-help.php:58
+msgid ""
+"Record and listen to the conversations between your employees and your "
+"customers to evaluate the quality of your customer service, or to better "
+"learn what common questions your customers are having. Call records are "
+"stored for 30 days."
+msgstr ""
+"Все разговоры, проходящие через функцию, будут записаны и сохранены для "
+"скачивания или прослушивания через панель управления. Время хранения записей "
+"- 30 дней."
+
+#: zingaya-help.php:64
+msgid ""
+"Data is sent to Google Analytics as events under Zingaya category. It helps "
+"to track increase in online conversion for visitors who made online call and "
+"check efficiency of marketing and advertising channels."
+msgstr ""
+"Данные о звонках выгружаются в интерфейс Google Analytics в виде отдельных "
+"событий в категории Zingaya. Это позволяет отслеживать влияние звонков с "
+"сайта на онлайн продажи и изучать эффективность маркетинговых и рекламных "
+"каналов."
+
+#: zingaya-help.php:70
+msgid ""
+"The keypad allows callers to enter the extension number of a particular "
+"employee or a required IVR menu option."
+msgstr ""
+"После звонка клиент может ввести добавочный номер сотрудника или выбрать "
+"нужный пункт голосового меню."
+
+#: zingaya-help.php:79
+msgid "Call button look and feel can be customized in Zingaya control panel."
+msgstr ""
+"Внешний вид кнопки звонка с сайта может быть изменен в Панели управления "
+"Zingaya."
+
+#: zingaya-help.php:81
+msgid "Widget look&feel preview"
+msgstr "Предварительный просмотр внешнего вида виджета"
+
+#: zingaya-help.php:85
+msgid "You can see how your widget will look on your website."
+msgstr "Вы можете увидеть как Ваш виджет будет выглядеть на сайте."
+
+#: zingaya-help.php:87
+msgid "Buttons area"
+msgstr "Секция кнопок"
+
+#: zingaya-help.php:91
+msgid ""
+"`Choose preset` button lets you choose one of the presets from the library."
+msgstr ""
+"Кнопка `Выбрать шаблон` предлагает выбрать настройки внешнего вида виджета "
+"из библиотеки шаблонов."
+
+#: zingaya-help.php:92
+msgid "`More settings` show additional graphical settings."
+msgstr ""
+"Кнопка `Дополнительно` показывает дополнительные параметры внешнего вида "
+"виджета."
+
+#: zingaya-help.php:94
+msgid "Widget form"
+msgstr "Тип виджета"
+
+#: zingaya-help.php:98
+msgid "Two options are available - widget (floating button) or button."
+msgstr ""
+"Возможны 2 варианта - виджет (плавающая кнопка) и кнопка, зафиксированная в "
+"определенном месте сайта."
+
+#: zingaya-help.php:104
+msgid ""
+"You can adjust visual settings using this section. Advanced mode lets you "
+"adjust additional visual settings like icon shadow, etc."
+msgstr ""
+"Вы можете настроить настройки внешнего вида с помощью этого раздела. "
+"Расширенный режим позволяет настраивать дополнительные настройки внешнего "
+"вида, такие как тень от иконки и т.д."
+
+#: zingaya-help.php:106
+msgid "Saving settings"
+msgstr "Сохранение настроек"
+
+#: zingaya-help.php:108
+msgid "Two options are available depending on the widget type."
+msgstr "Возможны два варианта в зависимости от типа виджета."
+
+#: zingaya-help.php:113
+msgid ""
+"If `Widget` type was chosen, you can use `Place on website` checkbox to show "
+"the widget on every page of your website."
+msgstr ""
+"Если выбран тип `Виджет`, то Вы можете выбрать флажок `Разместить на сайте` "
+"для размещения виджета на всех страницах Вашего сайта."
+
+#: zingaya-help.php:118
+msgid ""
+"If `Button` type was chosen, just click on `Save and show embed code` to get "
+"the code and embedding instructions."
+msgstr ""
+"Если выбран тип `Кнопка`, то просто нажмите на `Сохранить и показать код "
+"вставки`, чтобы получить код и инструкцию поразмещению виджета на сайте."
+
+#: zingaya-help.php:123
+msgid "Embedding instructions for `Widget` type from `Widget visual settings`"
+msgstr ""
+"Инструкция по размещению для типа виджета `Виджет` из `Визуальной настройки "
+"виджета`"
+
+#: zingaya-help.php:127
+msgid ""
+"To automatically embed widget on all pages of your website you need to "
+"enable `Place on website` checkbox before clicking `Save widget` button. You "
+"can have only one active widget of this type (widget) on your website."
+msgstr ""
+"Для автоматического размещения виджета на всех страницах Вашего сайта Вы "
+"должны выбрать флажок `Разместить на сайте` перед нажатием на кнопку "
+"`Сохранить виджет`. Одновременно активным может быть только один виджет типа "
+"`Виджет`."
+
+#: zingaya-help.php:129
+msgid "Embedding instructions for `Widget` type from `Widgets list`"
+msgstr ""
+"Инструкция по размещению для типа `Виджет` из раздела `Список виджетов`"
+
+#: zingaya-help.php:133
+msgid ""
+"Just click `Widget is active` checkbox to place the widget on your website. "
+"You can have only one active widget of this type (widget) on your website."
+msgstr ""
+"Просто выберите флажок `Виджет активен` для размещения виджета на всех "
+"страницах Вашего сайта. Одновременно активным может быть только один виджет "
+"типа `Виджет`."
+
+#: zingaya-help.php:135
+msgid "Embedding instructions for `Button` type"
+msgstr "Инструкция по размещению для типа `Кнопка`"
+
+#: zingaya-help.php:140
+msgid ""
+"Just copy short code from `Widgets list` or `Widget visual settings` and "
+"paste it into wordpress page content."
+msgstr ""
+"Просто скопируйте шорткод из `Списка виджетов` или `Настроек внешнего вида "
+"виджета` и вставьте его в нужное место при редактировании страницы сайта."
+
+#: zingaya-help.php:145
+msgid "Embedding instructions for `Button` type using Wordpress Widget"
+msgstr ""
+"Инструкция по добавлению на сайт виджета типа `Кнопка` посредством механизма "
+"виджетов Wordpress"
+
+#: zingaya-help.php:147
+msgid ""
+"You can also use standard Wordpress Widgets mechanism to add button on your "
+"website."
+msgstr ""
+"Для размещения на сайте виджета типа `Кнопка` Вы также можете использовать "
+"стандартный механизм виджетов Wordpress."
+
+#: zingaya-help.php:155
+msgid "Info about all calls via your widgets is available in call history."
+msgstr ""
+"Информация о всех звонках через Ваши виджеты доступна в Истории звонков."
+
+#: zingaya-help.php:161
+msgid ""
+"You can listen to voicemail messages left by your customers called you "
+"during non-working hours."
+msgstr ""
+"Вы можете прослушать голосовые сообщения, оставленные клиентами, которые "
+"звонили в нерабочее время."
+
+#: zingaya-help.php:163 zingaya.php:436
+msgid "IP Blacklist"
+msgstr "Черный список IP-адресов"
+
+#: zingaya-help.php:164
+msgid "Zingaya allows manual filtering by a caller’s IP address."
+msgstr "Zingaya разрешает ручную фильтрацию по IP-адресам звонящих."
+
+#: zingaya-help.php:166 zingaya.php:437
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: zingaya-help.php:167
+msgid "Notification settings (SMS/Email)"
+msgstr "Настройки уведомлений (СМС/Email)"
+
+#: zingaya-help.php:172
+msgid "You can pay for the service in Zingaya Control Panel"
+msgstr "Оплатить сервис Вы можете в Панели Управления Zingaya"
+
+#: zingaya-notifications.php:9
+msgid "Mobile phone"
+msgstr "Номер мобильного телефона"
+
+#: zingaya-notifications.php:15
+msgid "Disable personal mails"
+msgstr "Отключить персональные уведомления"
+
+#: zingaya-notifications.php:21
+msgid "Disable common mails"
+msgstr "Отключить общие уведомления"
+
+#: zingaya-notifications.php:26
+msgid "Update"
+msgstr "Обновить"
+
+#: zingaya-profile.php:21 zingaya-profile.php:72
+msgid "Email"
+msgstr ""
+
+#: zingaya-profile.php:27 zingaya-profile.php:80
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+#: zingaya-profile.php:37 zingaya-profile.php:95
+msgid "Company"
+msgstr "Компания"
+
+#: zingaya-profile.php:43 zingaya-profile.php:101
+msgid "Address"
+msgstr "Адрес"
+
+#: zingaya-profile.php:112
+msgid "Cancel"
+msgstr "Отмена"
+
+#: zingaya-widgetdesigner.php:102
+msgid "Widget visual settings"
+msgstr "Визуальная настройка виджета"
+
+#: zingaya-widgetdesigner.php:103
+msgid ""
+"Customize the look and feel of your widget <br /> according to the style of "
+"your website"
+msgstr ""
+"Настройте внешний вид Вашего виджета <br /> в соответствии со стилем вашего "
+"сайта"
+
+#: zingaya-widgetdesigner.php:107
+msgid "Preview background"
+msgstr "Цвет подложки"
+
+#: zingaya-widgetdesigner.php:109
+msgid "Light"
+msgstr "Светлый"
+
+#: zingaya-widgetdesigner.php:111
+msgid "Dark"
+msgstr "Темный"
+
+#: zingaya-widgetdesigner.php:114
+msgid "PREVIEW"
+msgstr "ПРЕДПРОСМОТР"
+
+#: zingaya-widgetdesigner.php:122
+msgid "Finished? Click the button to save and show your widget`s embed code."
+msgstr ""
+"Закончили? Нажмите кнопку для сохранения и получения кода вставки виджета."
+
+#: zingaya-widgetdesigner.php:125
+msgid "Finished? Click the button to Save or Save and place widget."
+msgstr ""
+"Закончили? Нажмите кнопку для сохранения и размещения виджета на сайте."
+
+#: zingaya-widgetdesigner.php:134
+msgid "Save and show embed code"
+msgstr "Сохранить и показать код вставки"
+
+#: zingaya-widgetdesigner.php:135
+msgid "Place on website"
+msgstr "Разместить на сайте"
+
+#: zingaya-widgetdesigner.php:136
+msgid "Save widget"
+msgstr "Сохранить виджет"
+
+#: zingaya-widgetdesigner.php:143 zingaya-widgetdesigner.php:347
+msgid "Choose preset"
+msgstr "Выбрать шаблон"
+
+#: zingaya-widgetdesigner.php:144
+msgid "More settings"
+msgstr "Дополнительно"
+
+#: zingaya-widgetdesigner.php:150 zingaya-widgetdesigner.php:153
+msgid "Presets"
+msgstr "Шаблоны"
+
+#: zingaya-widgetdesigner.php:174
+msgid "Type"
+msgstr "Тип"
+
+#: zingaya-widgetdesigner.php:179
+msgid "Button"
+msgstr "Кнопка"
+
+#: zingaya-widgetdesigner.php:183
+msgid "Position"
+msgstr "Позиция"
+
+#: zingaya-widgetdesigner.php:186
+msgid "Left"
+msgstr "Слева"
+
+#: zingaya-widgetdesigner.php:188
+msgid "Right"
+msgstr "Справа"
+
+#: zingaya-widgetdesigner.php:195
+msgid "Button Label"
+msgstr "Текст кнопки"
+
+#: zingaya-widgetdesigner.php:197 zingaya-widgetdesigner.php:402
+msgid "Call Us Online"
+msgstr "Позвонить онлайн"
+
+#: zingaya-widgetdesigner.php:204
+msgid "Button Preset"
+msgstr "Настройки кнопки"
+
+#: zingaya-widgetdesigner.php:210
+msgid "Icon color&shadow"
+msgstr "Цвет и тень иконки"
+
+#: zingaya-widgetdesigner.php:213
+msgid "Icon color"
+msgstr "Цвет иконки"
+
+#: zingaya-widgetdesigner.php:216
+msgid "Icon Shadow"
+msgstr "Тень иконки"
+
+#: zingaya-widgetdesigner.php:219 zingaya-widgetdesigner.php:278
+msgid "On"
+msgstr "Да"
+
+#: zingaya-widgetdesigner.php:221 zingaya-widgetdesigner.php:280
+msgid "Off"
+msgstr "Нет"
+
+#: zingaya-widgetdesigner.php:228
+msgid "Button Colors"
+msgstr "Цвета кнопки"
+
+#: zingaya-widgetdesigner.php:232
+msgid "Color 1"
+msgstr "Цвет кнопки 1"
+
+#: zingaya-widgetdesigner.php:235
+msgid "Color 2"
+msgstr "Цвет кнопки 2"
+
+#: zingaya-widgetdesigner.php:239
+msgid "Color 3"
+msgstr "Цвет кнопки 3"
+
+#: zingaya-widgetdesigner.php:242
+msgid "Color 4"
+msgstr "Цвет кнопки 4"
+
+#: zingaya-widgetdesigner.php:248
+msgid "Hover Button Colors"
+msgstr "Цвета кнопки при наведении"
+
+#: zingaya-widgetdesigner.php:252
+msgid "Hover color 1"
+msgstr "Цвет наведения 1"
+
+#: zingaya-widgetdesigner.php:255
+msgid "Hover color 2"
+msgstr "Цвет наведения 2"
+
+#: zingaya-widgetdesigner.php:259
+msgid "Hover color 3"
+msgstr "Цвет наведения 3"
+
+#: zingaya-widgetdesigner.php:262
+msgid "Hover color 4"
+msgstr "Цвет наведения 4"
+
+#: zingaya-widgetdesigner.php:268
+msgid "Label Colors"
+msgstr "Цвета надписи"
+
+#: zingaya-widgetdesigner.php:271
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: zingaya-widgetdesigner.php:274
+msgid "Label Shadow"
+msgstr "Тень от текста"
+
+#: zingaya-widgetdesigner.php:284
+msgid "Shadow Color"
+msgstr "Цвет тени"
+
+#: zingaya-widgetdesigner.php:290
+msgid "Padding"
+msgstr "Отступ"
+
+#: zingaya-widgetdesigner.php:302
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: zingaya-widgetdesigner.php:314
+msgid "Corner Roundness"
+msgstr "Скругление углов"
+
+#: zingaya-widgetdesigner.php:348
+msgid "Hide"
+msgstr "Скрыть"
+
+#: zingaya-widgetdesigner.php:349
+msgid "Successfully copied your HTML code to clipboard"
+msgstr "HTML-код успешно скопирован"
+
+#: zingaya-widgetdesigner.php:350
+msgid ""
+"Copy the code below and paste it immediately before the closing </head> tag"
+msgstr ""
+
+#: zingaya-widgetdesigner.php:351
+msgid ""
+"Copy the code below and paste it in place where you want your button to be "
+"shown"
+msgstr ""
+
+#: zingaya-widgetdesigner.php:357
+msgid "HTML code successfully copied!"
+msgstr ""
+
+#: zingaya-widgetdesigner.php:999
+msgid "Your widget has been successfully saved <br />and placed on website"
+msgstr "Ваш виджет был успешно сохранен <br />и размещен на сайте"
+
+#: zingaya-widgetdesigner.php:1001
+msgid "Your widget has been successfully saved"
+msgstr "Виджет был успешно сохранен"
+
+#: zingaya-widgetdesigner.php:1004
+msgid "There are 3 different ways to embed widget onto your website"
+msgstr "Добавить виджет на сайт Вы можете 3 разными способами"
+
+#: zingaya-widgetdesigner.php:1005
+msgid "Enable widget on <a href='/wp-admin/widgets.php'>Widgets</a> page"
+msgstr ""
+"Подключить виджет на странице <a href='/wp-admin/widgets.php'>Виджеты</a>"
+
+#: zingaya-widgetdesigner.php:1006
+msgid "Insert widget shortcode into page content"
+msgstr "Вставить шорткод виджета в текст страницы"
+
+#: zingaya-widgetdesigner.php:1007
+msgid "Add <b>zingaya_widget_show"
+msgstr "Добавить <b>zingaya_widget_show"
+
+#: zingaya-widgetdesigner.php:1007
+msgid "function call in your website template"
+msgstr "в шаблон Вашего сайта"
+
+#: zingaya-widgets.php:51
+msgid "Create Widget"
+msgstr "Создать виджет"
+
+#: zingaya.php:27
+msgid "Russia (area code 495, 499, 812)"
+msgstr "Россия (в кодах 495, 499, 812)"
+
+#: zingaya.php:28
+msgid "Russia (other landline numbers)"
+msgstr "Россия (другие городские номера)"
+
+#: zingaya.php:29
+msgid "United States (landline & mobile numbers)"
+msgstr "США (городские и мобильные)"
+
+#: zingaya.php:30
+msgid "Australia (landline numbers)"
+msgstr "Австралия (городские номера)"
+
+#: zingaya.php:31
+msgid "Canada (landline & mobile numbers)"
+msgstr "Канада (городские и мобильные)"
+
+#: zingaya.php:32
+msgid "France (landline numbers)"
+msgstr "Франция (городские номера)"
+
+#: zingaya.php:33
+msgid "Germany (landline numbers)"
+msgstr "Германия (городские номера)"
+
+#: zingaya.php:34
+msgid "Israel (landline numbers)"
+msgstr "Израиль (городские номера)"
+
+#: zingaya.php:35
+msgid "Italy (landline numbers)"
+msgstr "Италия (городские номера)"
+
+#: zingaya.php:36
+msgid "Japan (landline numbers)"
+msgstr "Япония (городские номера)"
+
+#: zingaya.php:37
+msgid "Netherlands (landline numbers)"
+msgstr "Недерланды (городские номера)"
+
+#: zingaya.php:38
+msgid "Kazakhstan (landline numbers)"
+msgstr "Казахстан (городские номера)"
+
+#: zingaya.php:39
+msgid "Republic of Korea (landline numbers)"
+msgstr "Корея (городские номера)"
+
+#: zingaya.php:40
+msgid "Spain (landline numbers)"
+msgstr "Испания (городские номера)"
+
+#: zingaya.php:41
+msgid "Turkey (landline numbers)"
+msgstr "Турция (городские номера)"
+
+#: zingaya.php:42
+msgid "United Kingdom (landline numbers)"
+msgstr "Великобритания (городские номера)"
+
+#: zingaya.php:43
+msgid "Ukraine (landline numbers)"
+msgstr "Украина (городские номера)"
+
+#: zingaya.php:60
+msgid "(GMT-10:00) Hawaii"
+msgstr ""
+
+#: zingaya.php:61
+msgid "(GMT-09:00) Alaska"
+msgstr ""
+
+#: zingaya.php:62
+msgid "(GMT-08:00) Pacific Time (US &amp; Canada)"
+msgstr ""
+
+#: zingaya.php:63
+msgid "(GMT-07:00) Arizona"
+msgstr ""
+
+#: zingaya.php:64
+msgid "(GMT-07:00) Mountain Time (US &amp; Canada)"
+msgstr ""
+
+#: zingaya.php:65
+msgid "(GMT-06:00) Central Time (US &amp; Canada)"
+msgstr ""
+
+#: zingaya.php:66
+msgid "(GMT-05:00) Eastern Time (US &amp; Canada)"
+msgstr ""
+
+#: zingaya.php:67
+msgid "(GMT-05:00) Indiana (East)"
+msgstr ""
+
+#: zingaya.php:68
+msgid "(GMT-11:00) International Date Line West"
+msgstr ""
+
+#: zingaya.php:69
+msgid "(GMT-11:00) Midway Island"
+msgstr ""
+
+#: zingaya.php:70
+msgid "(GMT-11:00) Samoa"
+msgstr ""
+
+#: zingaya.php:71
+msgid "(GMT-08:00) Tijuana"
+msgstr ""
+
+#: zingaya.php:72
+msgid "(GMT-07:00) Chihuahua"
+msgstr ""
+
+#: zingaya.php:73
+msgid "(GMT-07:00) Mazatlan"
+msgstr ""
+
+#: zingaya.php:74
+msgid "(GMT-06:00) Central America"
+msgstr ""
+
+#: zingaya.php:75
+msgid "(GMT-06:00) Mexico City"
+msgstr ""
+
+#: zingaya.php:76
+msgid "(GMT-06:00) Monterrey"
+msgstr ""
+
+#: zingaya.php:77
+msgid "(GMT-06:00) Saskatchewan"
+msgstr ""
+
+#: zingaya.php:78
+msgid "(GMT-05:00) Bogota"
+msgstr ""
+
+#: zingaya.php:79
+msgid "(GMT-05:00) Lima"
+msgstr ""
+
+#: zingaya.php:80
+msgid "(GMT-05:00) Quito"
+msgstr ""
+
+#: zingaya.php:81
+msgid "(GMT-04:30) Caracas"
+msgstr ""
+
+#: zingaya.php:82
+msgid "(GMT-04:00) Atlantic Time (Canada)"
+msgstr ""
+
+#: zingaya.php:83
+msgid "(GMT-04:00) La Paz"
+msgstr ""
+
+#: zingaya.php:84
+msgid "(GMT-04:00) Santiago"
+msgstr ""
+
+#: zingaya.php:85
+msgid "(GMT-03:30) Newfoundland"
+msgstr ""
+
+#: zingaya.php:86
+msgid "(GMT-03:00) Brasilia"
+msgstr ""
+
+#: zingaya.php:87
+msgid "(GMT-03:00) Buenos Aires"
+msgstr ""
+
+#: zingaya.php:88
+msgid "(GMT-04:00) Georgetown"
+msgstr ""
+
+#: zingaya.php:89
+msgid "(GMT-03:00) Greenland"
+msgstr ""
+
+#: zingaya.php:90
+msgid "(GMT-02:00) Mid-Atlantic"
+msgstr ""
+
+#: zingaya.php:91
+msgid "(GMT-01:00) Azores"
+msgstr ""
+
+#: zingaya.php:92
+msgid "(GMT-01:00) Cape Verde Is."
+msgstr ""
+
+#: zingaya.php:93
+msgid "(GMT) Casablanca"
+msgstr ""
+
+#: zingaya.php:94
+msgid "(GMT) Dublin"
+msgstr ""
+
+#: zingaya.php:95
+msgid "(GMT) Lisbon"
+msgstr ""
+
+#: zingaya.php:96
+msgid "(GMT) London"
+msgstr ""
+
+#: zingaya.php:97
+msgid "(GMT) Monrovia"
+msgstr ""
+
+#: zingaya.php:98
+msgid "(GMT+01:00) Amsterdam"
+msgstr ""
+
+#: zingaya.php:99
+msgid "(GMT+01:00) Belgrade"
+msgstr ""
+
+#: zingaya.php:100
+msgid "(GMT+01:00) Berlin"
+msgstr ""
+
+#: zingaya.php:101
+msgid "(GMT+01:00) Bern"
+msgstr ""
+
+#: zingaya.php:102
+msgid "(GMT+01:00) Bratislava"
+msgstr ""
+
+#: zingaya.php:103
+msgid "(GMT+01:00) Brussels"
+msgstr ""
+
+#: zingaya.php:104
+msgid "(GMT+01:00) Budapest"
+msgstr ""
+
+#: zingaya.php:105
+msgid "(GMT+01:00) Copenhagen"
+msgstr ""
+
+#: zingaya.php:106
+msgid "(GMT+01:00) Ljubljana"
+msgstr ""
+
+#: zingaya.php:107
+msgid "(GMT+01:00) Madrid"
+msgstr ""
+
+#: zingaya.php:108
+msgid "(GMT+01:00) Paris"
+msgstr ""
+
+#: zingaya.php:109
+msgid "(GMT+01:00) Prague"
+msgstr ""
+
+#: zingaya.php:110
+msgid "(GMT+01:00) Rome"
+msgstr ""
+
+#: zingaya.php:111
+msgid "(GMT+01:00) Sarajevo"
+msgstr ""
+
+#: zingaya.php:112
+msgid "(GMT+01:00) Skopje"
+msgstr ""
+
+#: zingaya.php:113
+msgid "(GMT+01:00) Stockholm"
+msgstr ""
+
+#: zingaya.php:114
+msgid "(GMT+01:00) Vienna"
+msgstr ""
+
+#: zingaya.php:115
+msgid "(GMT+01:00) Warsaw"
+msgstr ""
+
+#: zingaya.php:116
+msgid "(GMT+01:00) West Central Africa"
+msgstr ""
+
+#: zingaya.php:117
+msgid "(GMT+01:00) Zagreb"
+msgstr ""
+
+#: zingaya.php:118
+msgid "(GMT+02:00) Athens"
+msgstr ""
+
+#: zingaya.php:119
+msgid "(GMT+02:00) Bucharest"
+msgstr ""
+
+#: zingaya.php:120
+msgid "(GMT+02:00) Cairo"
+msgstr ""
+
+#: zingaya.php:121
+msgid "(GMT+02:00) Harare"
+msgstr ""
+
+#: zingaya.php:122
+msgid "(GMT+02:00) Helsinki"
+msgstr ""
+
+#: zingaya.php:123
+msgid "(GMT+02:00) Istanbul"
+msgstr ""
+
+#: zingaya.php:124
+msgid "(GMT+02:00) Jerusalem"
+msgstr ""
+
+#: zingaya.php:125
+msgid "(GMT+02:00) Kyiv"
+msgstr ""
+
+#: zingaya.php:126
+msgid "(GMT+02:00) Minsk"
+msgstr ""
+
+#: zingaya.php:127
+msgid "(GMT+02:00) Pretoria"
+msgstr ""
+
+#: zingaya.php:128
+msgid "(GMT+02:00) Riga"
+msgstr ""
+
+#: zingaya.php:129
+msgid "(GMT+02:00) Sofia"
+msgstr ""
+
+#: zingaya.php:130
+msgid "(GMT+02:00) Tallinn"
+msgstr ""
+
+#: zingaya.php:131
+msgid "(GMT+02:00) Vilnius"
+msgstr ""
+
+#: zingaya.php:132
+msgid "(GMT+03:00) Baghdad"
+msgstr ""
+
+#: zingaya.php:133
+msgid "(GMT+03:00) Kuwait"
+msgstr ""
+
+#: zingaya.php:134
+msgid "(GMT+04:00) Moscow"
+msgstr ""
+
+#: zingaya.php:135
+msgid "(GMT+03:00) Nairobi"
+msgstr ""
+
+#: zingaya.php:136
+msgid "(GMT+03:00) Riyadh"
+msgstr ""
+
+#: zingaya.php:137
+msgid "(GMT+03:00) Volgograd"
+msgstr ""
+
+#: zingaya.php:138
+msgid "(GMT+03:30) Tehran"
+msgstr ""
+
+#: zingaya.php:139
+msgid "(GMT+04:00) Abu Dhabi"
+msgstr ""
+
+#: zingaya.php:140
+msgid "(GMT+04:00) Baku"
+msgstr ""
+
+#: zingaya.php:141
+msgid "(GMT+04:00) Muscat"
+msgstr ""
+
+#: zingaya.php:142
+msgid "(GMT+04:00) Tbilisi"
+msgstr ""
+
+#: zingaya.php:143
+msgid "(GMT+04:00) Yerevan"
+msgstr ""
+
+#: zingaya.php:144
+msgid "(GMT+04:30) Kabul"
+msgstr ""
+
+#: zingaya.php:145
+msgid "(GMT+06:00) Ekaterinburg"
+msgstr ""
+
+#: zingaya.php:146
+msgid "(GMT+05:00) Islamabad"
+msgstr ""
+
+#: zingaya.php:147
+msgid "(GMT+05:00) Karachi"
+msgstr ""
+
+#: zingaya.php:148
+msgid "(GMT+05:00) Tashkent"
+msgstr ""
+
+#: zingaya.php:149
+msgid "(GMT+05:30) Chennai"
+msgstr ""
+
+#: zingaya.php:150
+msgid "(GMT+05:30) New Delhi"
+msgstr ""
+
+#: zingaya.php:151
+msgid "(GMT+05:45) Kathmandu"
+msgstr ""
+
+#: zingaya.php:152
+msgid "(GMT+06:00) Astana"
+msgstr ""
+
+#: zingaya.php:153
+msgid "(GMT+06:00) Dhaka"
+msgstr ""
+
+#: zingaya.php:154
+msgid "(GMT+07:00) Novosibirsk"
+msgstr ""
+
+#: zingaya.php:155
+msgid "(GMT+06:30) Rangoon"
+msgstr ""
+
+#: zingaya.php:156
+msgid "(GMT+07:00) Bangkok"
+msgstr ""
+
+#: zingaya.php:157
+msgid "(GMT+07:00) Hanoi"
+msgstr ""
+
+#: zingaya.php:158
+msgid "(GMT+07:00) Jakarta"
+msgstr ""
+
+#: zingaya.php:159
+msgid "(GMT+08:00) Krasnoyarsk"
+msgstr ""
+
+#: zingaya.php:160
+msgid "(GMT+08:00) Beijing"
+msgstr ""
+
+#: zingaya.php:161
+msgid "(GMT+08:00) Hong Kong"
+msgstr ""
+
+#: zingaya.php:162
+msgid "(GMT+09:00) Irkutsk"
+msgstr ""
+
+#: zingaya.php:163
+msgid "(GMT+08:00) Kuala Lumpur"
+msgstr ""
+
+#: zingaya.php:164
+msgid "(GMT+08:00) Perth"
+msgstr ""
+
+#: zingaya.php:165
+msgid "(GMT+08:00) Singapore"
+msgstr ""
+
+#: zingaya.php:166
+msgid "(GMT+08:00) Taipei"
+msgstr ""
+
+#: zingaya.php:167
+msgid "(GMT+08:00) Ulan Bator"
+msgstr ""
+
+#: zingaya.php:168
+msgid "(GMT+08:00) Urumqi"
+msgstr ""
+
+#: zingaya.php:169
+msgid "(GMT+09:00) Seoul"
+msgstr ""
+
+#: zingaya.php:170
+msgid "(GMT+09:00) Tokyo"
+msgstr ""
+
+#: zingaya.php:171
+msgid "(GMT+10:00) Yakutsk"
+msgstr ""
+
+#: zingaya.php:172
+msgid "(GMT+09:30) Adelaide"
+msgstr ""
+
+#: zingaya.php:173
+msgid "(GMT+09:30) Darwin"
+msgstr ""
+
+#: zingaya.php:174
+msgid "(GMT+10:00) Brisbane"
+msgstr ""
+
+#: zingaya.php:175
+msgid "(GMT+10:00) Guam"
+msgstr ""
+
+#: zingaya.php:176
+msgid "(GMT+10:00) Hobart"
+msgstr ""
+
+#: zingaya.php:177
+msgid "(GMT+10:00) Melbourne"
+msgstr ""
+
+#: zingaya.php:178
+msgid "(GMT+10:00) Port Moresby"
+msgstr ""
+
+#: zingaya.php:179
+msgid "(GMT+10:00) Sydney"
+msgstr ""
+
+#: zingaya.php:180
+msgid "(GMT+11:00) Vladivostok"
+msgstr ""
+
+#: zingaya.php:181
+msgid "(GMT+11:00) Magadan"
+msgstr ""
+
+#: zingaya.php:182
+msgid "(GMT+11:00) New Caledonia"
+msgstr ""
+
+#: zingaya.php:183
+msgid "(GMT+11:00) Solomon Is."
+msgstr ""
+
+#: zingaya.php:184
+msgid "(GMT+12:00) Fiji"
+msgstr ""
+
+#: zingaya.php:185
+msgid "(GMT+12:00) Kamchatka"
+msgstr ""
+
+#: zingaya.php:186
+msgid "(GMT+12:00) Marshall Is."
+msgstr ""
+
+#: zingaya.php:187
+msgid "(GMT+12:00) Wellington"
+msgstr ""
+
+#: zingaya.php:188
+msgid "(GMT+13:00) Nuku'alofa"
+msgstr ""
+
+#: zingaya.php:231
+msgid ""
+"APIKEY doesn't exist for specified account. Contact Zingaya admin to resolve "
+"the issue"
+msgstr ""
+
+#: zingaya.php:260 zingaya.php:639
+msgid "Phone number is required"
+msgstr "Номер телефона обязателен для заполнения"
+
+#: zingaya.php:276
+msgid "Not find tariff for selected country"
+msgstr ""
+
+#: zingaya.php:381
+msgid "Profile"
+msgstr "Профиль"
+
+#: zingaya.php:382
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: zingaya.php:386
+msgid "Help"
+msgstr "Помощь"
+
+#: zingaya.php:401
+msgid "authorized as"
+msgstr "Вы вошли как"
+
+#: zingaya.php:401
+msgid "Logout"
+msgstr "Выход"
+
+#: zingaya.php:421
+msgid "SIP Settings"
+msgstr ""
+
+#: zingaya.php:473
+msgid "Your account is frozen"
+msgstr "Ваш аккаунт заморожен"
+
+#: zingaya.php:473
+msgid "please visit"
+msgstr "пожалуйста перейдите в раздел"
+
+#: zingaya.php:473
+msgid "to resolve the problem"
+msgstr "для решения проблемы"
+
+#: zingaya.php:524
+msgid "Zingaya Settings"
+msgstr "Настройки Zingaya"
+
+#: zingaya.php:524
+msgid "Zingaya"
+msgstr ""
+
+#: zingaya.php:592
+msgid "Profile was updated successfully"
+msgstr "Профиль был успешно обновлен"
+
+#: zingaya.php:680
+msgid "Widget has been successfully added"
+msgstr "Виджет был успешно создан"
+
+#: zingaya.php:681 zingaya.php:750
+msgid "You can customize look&feel of your widget in "
+msgstr "Вы можете настроить внешний код виджета в "
+
+#: zingaya.php:681 zingaya.php:750
+msgid "Widget designer"
+msgstr "Редактор виджета"
+
+#: zingaya.php:749
+msgid "Widget has been successfully updated"
+msgstr "Виджет был успешно обновлен"
+
+#: zingaya.php:831
+msgid "Widget has been successfully deleted"
+msgstr "Виджет был успешно удален"
+
+#: zingaya.php:902
+msgid "Zingaya click-to-call"
+msgstr "Zingaya звонок с сайта"
+
+#: zingaya.php:902 zingaya.php:1027
+msgid "Zingaya Click-to-Call widget"
+msgstr "Zingaya Click-to-call виджет"
+
+#: zingaya.php:1005
+msgid "Show block title"
+msgstr "Показать заголовок блока"
+
+#: zingaya.php:1008
+msgid "Widget block title"
+msgstr "Заголовок блока виджета"
+
+#: zingaya.php:1012
+msgid "Select widget"
+msgstr "Выберите виджет"
+
+#: zingaya.php:1022
+msgid "You don`t have any zingaya buttons"
+msgstr "У Вас пока нет доступных кнопок Zingaya"
+
+#: zingaya.php:1138
+msgid "Voicemail has been deleted successfully"
+msgstr "Голосовая почта была успешно удалена"
+
+#: zingaya.php:1169
+msgid "has been successfully deleted from the blacklist"
+msgstr "был успешно удален из черного списка"
+
+#: zingaya.php:1190
+msgid "has been successfully added to the blacklist"
+msgstr "был успешно добавлен в черный список"
+
+#: zingaya.php:1216
+msgid "Notifications settings has been updated successfully"
+msgstr "Настройки уведомлений были успешно обновлены"
+
+#~ msgid "Register it"
+#~ msgstr "Зарегистрировать его"
+
+#~ msgid "Authorize area"
+#~ msgstr "Авторизации"
+
+#~ msgid "Shortcode"
+#~ msgstr "Шорт-код"
+
+#~ msgid "e.c. 112345678"
+#~ msgstr "например 74951112233"
+
+#~ msgid "Google Analytics ID (e.c. UA-XXXXXX-XX)"
+#~ msgstr "Google Analytics ID (например UA-XXXXXX-XX)"
+
+#~ msgid "Next"
+#~ msgstr "Далее"
+
+#~ msgid "Generate HTML"
+#~ msgstr "Получить HTML"
+
+#~ msgid "Zingaya account with email"
+#~ msgstr "Аккаунт Zingaya с email"
+
+#~ msgid "already exists"
+#~ msgstr "уже существует"
+
+#~ msgid "Copy to clipboard"
+#~ msgstr "Скопировать"
